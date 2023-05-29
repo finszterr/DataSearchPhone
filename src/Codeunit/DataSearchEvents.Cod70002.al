@@ -77,6 +77,13 @@ codeunit 70002 "DS Data Search Events"
     begin
     end;
 
+    /// <summary>
+    /// After clicking on a Header Line show a specified List Page.
+    /// </summary>
+    /// <param name="Rec">VAR Record "DS Data Search Result".</param>
+    /// <param name="PageNo">The page to show.</param>
+    /// <param name="RoleCenterID">Integer.</param>
+    /// <param name="SearchString">Text.</param>
     [IntegrationEvent(false, false)]
     procedure OnAfterGetListPageNo(var Rec: Record "DS Data Search Result";
                                    var PageNo: Integer;
