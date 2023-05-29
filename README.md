@@ -5,3 +5,9 @@ A Business Central Phone client optimalized search app based on [Microsoft's Dat
 - Autofocus search field when Datasearch is opened
 - Actions added as Promoted, so you can modify selected tables
 - New subscription: OnAfterGetListPageNo to manipulate the List Pages
+
+# Id Ranges
+    {
+      "from": 70000,
+      "to": 70149
+    }
