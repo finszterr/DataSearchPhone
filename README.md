@@ -1,7 +1,7 @@
 # DataSearchPhone
 A Business Central Phone client optimalized search app based on [Microsoft's Data Search app](https://learn.microsoft.com/en-us/dynamics365/business-central/ui-search-data).
 
-<img src="howto.gif" width="200" height="322"/>
+<img src="howto.gif" width="400" height="644"/>
 
 # Features
 - Autofocus search field when Datasearch is opened
